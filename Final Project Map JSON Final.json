@@ -159,7 +159,7 @@
    "k1": 15,
    "k2": 20,
    "k3": 16,
-   "story": "This is the underground tunnel. Here you see a set of footsteps going in one direction. You follow the footsteps but the lead to a dead end. From the dead end you see a set of footsteps going back. Maybe the prisoner tried to escape  but failed and returned back to the prison. However, there is no dead body to be found which means the warden's assumption was wrong. The prisoner did not die in the tunnel!!",
+   "story": "This is the underground tunnel. Here you see a set of footsteps going into the tunnel but the tunnel is blocked by a gate. You can cut the gate if you have an electric saw",
    "nav": "Press 1 to go to the gym, 2 to go the game room and 3 to go to the kitchen",
    "win": 0,
    "lose": 0,
