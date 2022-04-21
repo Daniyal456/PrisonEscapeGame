@@ -118,7 +118,7 @@
    "k2": 0,
    "k3": 0,
    "story": "In the solitary confinement area you find a secret cell hidden in a corner. There you find the missing prisoner. You ask him what happened and he uncovers a conspiracy.",
-   "nav": "-",
+   "nav": "The game ends here. YOU HAVE WON!!!",
    "win": 1,
    "lose": 0,
    "guard": 0,
