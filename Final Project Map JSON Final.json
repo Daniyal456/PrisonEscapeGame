@@ -76,7 +76,7 @@
    "k2": 9,
    "k3": 11,
    "story": "You are inside the guard room. Meet the guard supervisor who will brief you about the missing prisoner. But be careful!! You can't trust anyone here",
-   "nav": "Press 1 to warden office, 2 to go to cells area and 3 to go to cell 54",
+   "nav": "Press 1 to warden office, 2 to go to solitary confinement and 3 to go to cell 54",
    "win": 0,
    "lose": 0,
    "guard": 1,
